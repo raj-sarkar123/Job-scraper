@@ -1,0 +1,5 @@
+1. Open the project in VS Code
+2. Activate the virtual environment
+.\.venv\Scripts\Activate.ps1
+3. Run:
+python -m jobhunt run --send
