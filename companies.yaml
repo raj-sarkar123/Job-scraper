@@ -23,16 +23,18 @@
 # noise and makes the prefilter counts impossible to reason about.
 
 companies:
-  - {ats: greenhouse, slug: stripe,      name: Stripe}
-  - {ats: greenhouse, slug: databricks,  name: Databricks}
-  - {ats: greenhouse, slug: cloudflare,  name: Cloudflare}
-  - {ats: greenhouse, slug: figma,       name: Figma}
-  - {ats: greenhouse, slug: dropbox,     name: Dropbox}
-  - {ats: greenhouse, slug: coinbase,    name: Coinbase}
-  - {ats: greenhouse, slug: reddit,      name: Reddit}
-  - {ats: lever,      slug: voleon,      name: Voleon}
-
-  - {ats: ashby,      slug: openai,      name: OpenAI}
-  - {ats: ashby,      slug: ramp,        name: Ramp}
-  - {ats: ashby,      slug: linear,      name: Linear}
-  - {ats: ashby,      slug: vanta,       name: Vanta}
+  - {ats: lever, slug: hevodata, name: Hevo Data}
+  - {ats: lever, slug: ion, name: ION Group}
+  - {ats: lever, slug: veeva, name: Veeva Systems}
+  - {ats: lever, slug: drivetrain, name: Drivetrain}
+  - {ats: ashby, slug: almabase, name: Almabase}
+  - {ats: ashby, slug: aiprise, name: AiPrise}
+  - {ats: ashby, slug: ontic, name: Ontic}
+  - {ats: ashby, slug: PaveBank, name: Pave Bank}
+  - {ats: ashby, slug: canals, name: Canals}
+  - {ats: ashby, slug: firstwork, name: FirstWork}
+  - {ats: ashby, slug: playpowerlabs, name: PlayPower Labs}
+  - {ats: ashby, slug: zapier, name: Zapier}
+  - {ats: ashby, slug: ema, name: Ema}
+  - {ats: ashby, slug: withorbital, name: Fairground}
+  - {ats: ashby, slug: acai, name: Acai Travel}
